@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal home page of Mohammad Nur Nobi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
