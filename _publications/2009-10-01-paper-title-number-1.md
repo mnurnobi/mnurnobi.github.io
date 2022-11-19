@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Deepfake detection: a systematic literature review"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The sytematice literature review of deep learning based seminal works.'
+date: 2022-01-01
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9721302'
+citation: 'Rana, Md Shohel, Mohammad Nur Nobi, Beddhu Murali, and Andrew H. Sung. "Deepfake detection: a systematic literature review." IEEE Access (2022).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The sytematice literature review of deep learning based seminal works.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9721302)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rana, Md Shohel, Mohammad Nur Nobi, Beddhu Murali, and Andrew H. Sung. "Deepfake detection: a systematic literature review." IEEE Access (2022).
