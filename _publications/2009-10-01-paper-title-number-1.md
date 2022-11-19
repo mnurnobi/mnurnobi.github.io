@@ -1,7 +1,7 @@
 ---
 title: "Deepfake detection: a systematic literature review"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'The sytematice literature review of deep learning based seminal works.'
 date: 2022-01-01
 venue: 'IEEE Access'
