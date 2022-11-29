@@ -1,6 +1,6 @@
 ---
 title: "Deepfake detection: a systematic literature review"
-collection: publications
+#collection: publications
 permalink:
 excerpt: 'The sytematice literature review of deep learning based seminal works.'
 date: 2022-01-01
