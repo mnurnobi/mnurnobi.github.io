@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: research
+---
+
 My research's main direction falls under the umbrella of AI for Security and Security for AI. I plan to utilize data analytics, AI, and Machine Learning 
 (ML) to develop automated tools for effective, accurate, and secured cybersecurity solutions.
 
