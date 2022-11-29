@@ -1,8 +1,11 @@
+
 ---
-title: "Portfolio item number 1"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research-1"
 collection: research
+type: "Research"
 ---
+
+In this talk, I highlighted current trend of application of AI in access control.
 
 My research's main direction falls under the umbrella of AI for Security and Security for AI. I plan to utilize data analytics, AI, and Machine Learning 
 (ML) to develop automated tools for effective, accurate, and secured cybersecurity solutions.
