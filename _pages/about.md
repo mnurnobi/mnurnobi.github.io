@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-## Mohammad Nur Nobi ##
-Research Interest: Cybersecurity, Machine Learning, and Computer Vision
+## Research Interest ##
+Cybersecurity, Machine Learning, and Computer Vision
 
-**Short Bio**
+## Short Bio ##
 
 
 <br><br><br>
