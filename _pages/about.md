@@ -15,7 +15,7 @@ Research Interest: Cybersecurity, Machine Learning, and Computer Vision
 **Short Bio**
 
 
-<br><br><br><br>
+<br><br><br>
 **<span style="color:blue">RECENT NEWS:</span>**<br>
-- I will be serving as a Program Co-Chairs in SaT-CPS 2023. Consider submitting your original research works.
+- I will be serving as a Program Co-Chairs in [SaT-CPS 2023](https://sites.google.com/view/sat-cps2023/home?authuser=0). Consider submitting your original research works.
 
