@@ -13,5 +13,7 @@ redirect_from:
 Research Interest: Cybersecurity, Machine Learning, and Computer Vision
 
 
-*NEWS:* <span style="color:blue">I will be serving as a Program Co-Chairs in SaT-CPS 2023. Consider submitting your original research works.</span>
+*NEWS:* 
+
+<span style="color:blue">I will be serving as a Program Co-Chairs in SaT-CPS 2023. Consider submitting your original research works.</span>
 
