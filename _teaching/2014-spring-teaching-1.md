@@ -1,4 +1,11 @@
-
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Workshop"
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
+---
 
 Following table summarizes all of my teaching experiences.
 
