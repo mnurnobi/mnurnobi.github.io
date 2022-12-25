@@ -10,3 +10,5 @@ author_profile: true
 - Reviewer, 11<sup>th</sup> and 12<sup>th</sup> ACM CODASPY, 2021, 2022.
 - Reviewer, IEEE Big Data Conference, 2021.
 - Reviewer, the International Conference on Information Systems Security (ICIIS), 2020.
+- Judge, Alamo Junior Academy of Sciences (AJAS) 2021, San Antonio, TX.
+- Judge, UTSA Undergraduate Research & Creative Inquiry Showcase-2020, San Antonio, TX.
