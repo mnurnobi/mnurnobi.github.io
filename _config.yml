@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammad Nur Nobi, Ph.D."
   avatar           : "Nobi.jpg"
-  bio              : "Senior Data Scientist at FedEx Dataworks"
+  bio              : "Senior Data Scientist at "<a href="https://www.fedex.com/en-us/dataworks.html" target="_blank">FedEx Dataworks</a>
   location         : "San Antonio, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
