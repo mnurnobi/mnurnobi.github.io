@@ -11,4 +11,4 @@ author_profile: true
 - Reviewer, IEEE Big Data Conference, 2021.
 - Reviewer, the International Conference on Information Systems Security (ICIIS), 2020.
 - Judge, Alamo Junior Academy of Sciences (AJAS) 2021, San Antonio, TX.
-- Judge, UTSA Undergraduate Research & Creative Inquiry Showcase-2020, San Antonio, TX.
+- Judge, UTSA Undergraduate Research & Creative Inquiry Showcase 2020, San Antonio, TX.
